@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Uong Thanh Trung, you can call me Maki
+# 👋 Hi, I'm Uong Thanh Trung( you can call me Maki)
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
