@@ -1,43 +1,66 @@
-##👋 Hello, I'm Uong Thanh Trung my nickname is maki.
+# 👋 Hi, I'm Uong Thanh Trung, you can call me Maki
 
-<!🧑‍💻 About Me
-I'm an AI Engineer with a passion for developing intelligent systems and streamlining machine learning operations. My work bridges the gap between complex AI models and scalable, reliable deployment pipelines. I thrive on transforming innovative ideas into practical, real-world applications.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🛠️ Skills
-Languages: JavaScript, Python.
-Web Development: HTML, CSS, React, TailwingCss, Node.js.
-AI Based: Numpy, Pandas, Tensorflow, Mlflow, Machine Learning, Deep Learning.
-Databases: MsSQLSever, MongoDB, Pinecone.
-Tools & Platforms: Git, Docker, Visual Studio Code, Pycharm
-📌 Featured Projects
-Infobot: A modern AI-powered platform that allows users to upload PDFs, automatically generate quizzes from content, and chat with documents interactively. Built with React + Vite on the frontend and FastAPI on the backend.
+## 🧑‍💻 About Me  
+I'm a Data Science student at **HUFLIT (2022–2026)** with a strong academic foundation built through coursework, research projects, and self-learning.  
+I’m passionate about **Machine Learning, Deep Learning, Computer Vision, and NLP**.  
+Although I don’t yet have direct industry experience, I thrive on solving real-world data challenges, continuously learning, and improving my skills to become a valuable Data Scientist.  
 
-MLops: Network Anomaly Detection with Python & MLflow on CICIDS2017 This project applies machine learning to detect anomalies in network traffic using the CICIDS2017 dataset. MLflow is used to manage the model lifecycle, from experiment tracking to deployment, enabling reproducible and scalable MLOps workflows.
+---
 
-Zebra Crossing Detection: A deep learning-based computer vision project to detect zebra crossings in images using a custom-trained object detection model. The model is trained using Resnet50 and fine-tuned on a curated dataset to enhance real-world performance in urban and smart city environments.
+## 🔧 Skills  
 
-Prometheus & Grafana Monitoring Stack: A ready-to-use monitoring stack that integrates Prometheus and Grafana via Docker Compose. This setup allows you to collect, store, and visualize metrics from your applications or infrastructure efficiently.
+**Programming & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 
-Explainable AI seminar: This project uses Streamlit, TensorFlow, and various visualization techniques such as Grad-CAM and Saliency to classify images and visualize the model's decision-making process. The app leverages MobileNetV2 for image classification.
+**Data Science & AI**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 
-📈 GitHub Stats
-📚 Top Languages
-Top Langs
+**Tools & Platforms**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
-📫 Contact Me
-📧 Email: nhan.lequy12@gmail.com
-💼 LinkedIn: linkedin.com/in/nhanlequy
-“Hard work beats talent when talent doesn’t work hard.”--
-**m4k1maki/m4k1maki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 📌 Project | 🔍 Description | 🛠️ Tech Stack |
+|------------|----------------|----------------|
+| 🌸 **Clustering Analysis on Iris Dataset** | K-Means clustering with visualization & performance evaluation | Python, Scikit-learn, Matplotlib |
+| 🖼️ **VGG16 Architecture Analysis** | Implemented VGG16 CNN with Keras for image classification tasks | Keras, TensorFlow |
+| 🐼 **Animal Image Classification** | Compared MLP & CNN models with Softmax for multi-class recognition | Keras, TensorFlow |
+| 🤟 **Sign Language Recognition (K–O)** | Recognition system with CNN, ResNet50 & MobileNetV2 (transfer learning) | TensorFlow, Keras |
+| 🚚 **Real-time Delivery Tracking** | Logistics tracking app using Apache Kafka producers/consumers | Apache Kafka, Python |
+| 🧠 **LLM Data Augmentation** | Improved stance detection on COVID-19 misinformation using LLMs | NLP, LLMs |
+| 📊 **Supervised Classification with Orange** | Compared kNN, Decision Tree, Naive Bayes with metrics visualization | Orange, Python |
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4k1maki&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4k1maki&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=m4k1maki&theme=radical)  
+
+---
+
+## 📫 Contact Me  
+
+- **Email:** uongthanhtrung2004@gmail.com  
+- **GitHub:** [github.com/m4k1maki](https://github.com/m4k1maki)  
+- **Portfolio/Resume:** [bit.ly/4lOcvMP](https://bit.ly/4lOcvMP)  
+- **Phone:** (+84) 038 8363 181  
+
+---
+
+✨ *“Keep learning, keep building, and keep growing.”* ✨
