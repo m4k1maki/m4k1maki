@@ -31,20 +31,6 @@ Although I don’t yet have direct industry experience, I thrive on solving real
 
 ---
 
-## 🚀 Featured Projects  
-
-| 📌 Project | 🔍 Description | 🛠️ Tech Stack |
-|------------|----------------|----------------|
-| 🌸 **Clustering Analysis on Iris Dataset** | K-Means clustering with visualization & performance evaluation | Python, Scikit-learn, Matplotlib |
-| 🖼️ **VGG16 Architecture Analysis** | Implemented VGG16 CNN with Keras for image classification tasks | Keras, TensorFlow |
-| 🐼 **Animal Image Classification** | Compared MLP & CNN models with Softmax for multi-class recognition | Keras, TensorFlow |
-| 🤟 **Sign Language Recognition (K–O)** | Recognition system with CNN, ResNet50 & MobileNetV2 (transfer learning) | TensorFlow, Keras |
-| 🚚 **Real-time Delivery Tracking** | Logistics tracking app using Apache Kafka producers/consumers | Apache Kafka, Python |
-| 🧠 **LLM Data Augmentation** | Improved stance detection on COVID-19 misinformation using LLMs | NLP, LLMs |
-| 📊 **Supervised Classification with Orange** | Compared kNN, Decision Tree, Naive Bayes with metrics visualization | Orange, Python |
-
----
-
 ## 📊 GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4k1maki&layout=compact&theme=radical)  
