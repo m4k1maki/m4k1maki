@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Uong Thanh Trung( you can call me Maki)
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🧑‍💻 About Me  
 I'm a Data Science student at **HUFLIT (2022–2026)** with a strong academic foundation built through coursework, research projects, and self-learning.  
