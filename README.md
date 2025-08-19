@@ -48,9 +48,7 @@ Although I don’t yet have direct industry experience, I thrive on solving real
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4k1maki&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4k1maki&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=m4k1maki&theme=radical)  
 
 ---
 
@@ -58,7 +56,7 @@ Although I don’t yet have direct industry experience, I thrive on solving real
 
 - **Email:** uongthanhtrung2004@gmail.com  
 - **GitHub:** [github.com/m4k1maki](https://github.com/m4k1maki)  
-- **Portfolio/Resume:** [bit.ly/4lOcvMP](https://bit.ly/4lOcvMP)  
+- **LinkedIn:** [bit.ly/4lOcvMP](https://bit.ly/4lOcvMP)  
 - **Phone:** (+84) 038 8363 181  
 
 ---
