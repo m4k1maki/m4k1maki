@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Uong Thanh Trung( you can call me Maki)
+# 👋 Hi, I'm Uong Thanh Trung (you can call me Maki)
 
 
 ## 🧑‍💻 About Me  
-I'm a Data Science dent with a strong academic foundation built through coursework, research projects, and self-learning.  
+I'm a Data Science student with a strong academic foundation built through coursework, research projects, and self-learning.  
 I’m passionate about **Machine Learning, Deep Learning, Computer Vision, and NLP**.  
 Although I don’t yet have direct industry experience, I thrive on solving real-world data challenges, continuously learning, and improving my skills to become a valuable Data Scientist.  
 
@@ -12,7 +12,10 @@ Although I don’t yet have direct industry experience, I thrive on solving real
 
 **Programming & Data**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 **Data Science & AI**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
@@ -24,6 +27,7 @@ Although I don’t yet have direct industry experience, I thrive on solving real
 
 **Tools & Platforms**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
