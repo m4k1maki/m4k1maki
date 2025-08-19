@@ -2,7 +2,7 @@
 
 
 ## 🧑‍💻 About Me  
-I'm a Data Science student at **HUFLIT (2022–2026)** with a strong academic foundation built through coursework, research projects, and self-learning.  
+I'm a Data Science dent with a strong academic foundation built through coursework, research projects, and self-learning.  
 I’m passionate about **Machine Learning, Deep Learning, Computer Vision, and NLP**.  
 Although I don’t yet have direct industry experience, I thrive on solving real-world data challenges, continuously learning, and improving my skills to become a valuable Data Scientist.  
 
