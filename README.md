@@ -49,5 +49,3 @@ Although I don’t yet have direct industry experience, I thrive on solving real
 - **Phone:** (+84) 038 8363 181  
 
 ---
-
-✨ *“Keep learning, keep building, and keep growing.”* ✨
